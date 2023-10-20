@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/dominick-milioga-791534267/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="[https://www.facebook.com/p.ngsm.ng/](https://www.facebook.com/domzkiehunter169)">
+    <a href="https://www.facebook.com/domzkiehunter169">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
     </a>
     <a href="mailto: neudominick01@gmail.com">
